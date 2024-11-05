@@ -1,2 +1,2 @@
-# project.springBoot.react.portfolio
-This repository is created for the portfolio website.
+# project.springBoot.react.teplate
+This repository is initial default springboot and react proejct for new projects 
